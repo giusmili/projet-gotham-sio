@@ -11,7 +11,7 @@ html{
     */
     /* propriété add */
     background: linear-gradient(to top, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.6) 50%),
-    url(../asset/cover-batman.jpg)no-repeat fixed center center / cover;
+    url(https://raw.githubusercontent.com/giusmili/projet-gotham-sio/master/asset/cover-batman.jpg)no-repeat fixed center center / cover;
     scroll-behavior: smooth;
 }
 
